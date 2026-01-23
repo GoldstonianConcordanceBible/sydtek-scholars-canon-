@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "SydTek Scholars Canon"
+message: "If you use or reference this Canon, please cite it."
+type: document
+authors:
+  - name: "SydTek Scholars"
+version: "1.0"
+date-released: "2026-01-22"
+repository-code: "https://github.com/GoldstonianConcordanceBible/sydtek-scholars-canon"
